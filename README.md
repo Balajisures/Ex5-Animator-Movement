@@ -64,7 +64,7 @@ public class Movement : MonoBehaviour
 ```
 ## Output :
 
-![alt text](image.png)
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/fc9c16ec-165d-400d-b8b2-86720d9f38cd" />
 
 ## Result :
 
